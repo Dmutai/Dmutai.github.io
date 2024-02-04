@@ -1,6 +1,8 @@
 # Dmutai.github.io
 This is my personal website
 
+![](https://i.gifer.com/embedded/download/3IsN.gif)
+
 #Education
 
 - MA Project planning and management
