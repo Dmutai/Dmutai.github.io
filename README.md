@@ -3,6 +3,14 @@ This is my personal website
 
 ![](https://i.gifer.com/embedded/download/3IsN.gif)
 
+
+Adding new text
+
+#Introduction
+
+##History 
+
+Some test text
 #Education
 
 - MA Project planning and management
