@@ -1,9 +1,6 @@
 # Dmutai.github.io
 This is my personal website
 
-![](https://i.gifer.com/embedded/download/3IsN.gif)
-
-
 Adding new text
 
 #Introduction
@@ -20,6 +17,11 @@ Some test text
 
 - Snr GIS Manager
 - GIS and RS Specialist
+
+
+Some demo
+
+![](https://i.gifer.com/embedded/download/3IsN.gif)
 
 
 
